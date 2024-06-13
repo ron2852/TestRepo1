@@ -1,1 +1,0 @@
-print ("This is test code for GitHub practice with local and remote repo")
